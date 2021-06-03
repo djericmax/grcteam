@@ -6,12 +6,14 @@ import { AppComponent } from './app.component';
 import { SiteComponent } from './site/site.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {MatIconModule} from '@angular/material/icon';
+import { PoliticaComponent } from './site/_components/politica/politica.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-      SiteComponent
+      SiteComponent,
+      PoliticaComponent
    ],
   imports: [
     BrowserModule,
