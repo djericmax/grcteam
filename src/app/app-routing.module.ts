@@ -7,11 +7,12 @@ import { HomeComponent } from './site/_pages/home/home.component';
 import { PoliticaprivacidadeComponent } from './site/_pages/politicaprivacidade/politicaprivacidade.component';
 
 const routes: Routes = [
-  {path: '', redirectTo: 'home', pathMatch: 'full'},
-  {path: 'header',              component: HeaderComponent},
-  {path: 'nav',                 component: NavbarComponent},
-  {path: 'footer',              component: FooterComponent},
-  // {path: 'home',                component: SiteComponent},
+  {path: '',                    redirectTo: 'home', pathMatch: 'full'},
+  {path: 'home',                redirectTo: 'home', pathMatch: 'full'},
+  {path: 'politicaprivacidade', redirectTo: 'politicaprivacidade', pathMatch: 'full'},
+  // {path: 'header',              component: HeaderComponent},
+  // {path: 'nav',                 component: NavbarComponent},
+  // {path: 'footer',              component: FooterComponent},
   {path: 'home',                component: HomeComponent},
   {path: 'politicaprivacidade', component: PoliticaprivacidadeComponent},
 ];

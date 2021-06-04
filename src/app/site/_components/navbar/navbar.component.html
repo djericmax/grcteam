@@ -1,10 +1,26 @@
 <div>
-  <a href="home" class="icosNavBar">
-    <mat-icon class="NavIcon">home</mat-icon>Home</a>
-  <span class="icosNavBar">&nbsp;|&nbsp;</span>
-  <a href="politicaprivacidade" class="icosNavBar">
-    <mat-icon class="NavIcon">security</mat-icon>Política de Privacidade</a>
-  <!-- <span class="icosNavBar">&nbsp;|&nbsp;</span>
+  <a [routerLink]="['home']" class="icosNavBar">
+    <mat-icon class="NavIcon">
+      home
+    </mat-icon>
+    Home
+  </a>
+  <span class="icosNavBar">
+    &nbsp;|&nbsp;
+  </span>
+  <a [routerLink]="['politicaprivacidade']" class="icosNavBar">
+    <mat-icon class="NavIcon">
+      security
+    </mat-icon>
+    Política de Privacidade
+  </a>
+  <span class="icosNavBar">
+    &nbsp;|&nbsp;
+  </span>
   <a href="https://app.grcteam.com.br/" class="icosNavBar">
-    <mat-icon class="NavIcon">insert_chart_outlined</mat-icon>Login</a> -->
+    <mat-icon class="NavIcon">
+      insert_chart_outlined
+    </mat-icon>
+    Login
+  </a>
 </div>
