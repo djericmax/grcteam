@@ -6,21 +6,22 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatIconModule} from '@angular/material/icon';
 import { MatDividerModule} from '@angular/material/divider';
-import { NavbarComponent } from './site/_components/navbar/navbar.component';
 import { PoliticaprivacidadeComponent } from './site/_pages/politicaprivacidade/politicaprivacidade.component';
 import { HeaderComponent } from './site/_components/header/header.component';
 import { FooterComponent } from './site/_components/footer/footer.component';
 import { HomeComponent } from './site/_pages/home/home.component';
+import { Nav_leftComponent } from './site/_components/nav_left/nav_left.component';
+import { Nav_rightComponent } from './site/_components/nav_right/nav_right.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
-    NavbarComponent,
     FooterComponent,
     HomeComponent,
-      
-      PoliticaprivacidadeComponent
+    Nav_leftComponent,
+    Nav_rightComponent,
+    PoliticaprivacidadeComponent
    ],
   imports: [
     BrowserModule,

@@ -1,0 +1,75 @@
+.icosNavBar{
+  font-family: Arial, Helvetica, sans-serif !important;
+  color: #555555 !important;
+  font-weight: 400;
+  font-size: 18px;
+  /* vertical-align: middle; */
+  text-decoration: none;
+}
+
+.navIcon{
+  margin-left: -13px !important;
+  padding-left: 7px;
+}
+
+.navText{
+  vertical-align: super;
+  margin-left: 3px !important;
+}
+
+#scanfcode
+{
+  border-radius:0px;
+  background:#fff;
+  padding:10px;
+  font-size:17px;
+}
+/* logo or main heading */
+#logo
+{
+  font-size:20px;
+  font-weight:bolder;
+  color:#00004d;
+  letter-spacing:2px;
+}
+/* navigation links*/
+#link a
+{
+  color:#01325d;
+  margin:0 20px 0 10px;
+  letter-spacing:1.5px;
+}
+/* navigation link with right border */
+#first-link
+{
+  padding-right:6px;
+  border-right:solid 1px #ccc;
+}
+/* sign up link button and toggle button */
+#button-link ,#toogle-button
+{
+  color:#f2f2f2;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(0,0,0,.2);
+  border-radius: 2px;
+  background-color: #fa6a48;
+  line-height: 17px;
+}
+#button-link a
+{
+  color:#f2f2f2;
+}
+
+.linha-vertical {
+  margin-top: -5%;
+  height: 55px;
+  vertical-align: middle;
+  border-left: 1px solid;
+  border-color: #CCCCCC;
+}
+
+.navtop{
+  margin-top: -13%;
+  text-align: left;
+}

@@ -1,0 +1,42 @@
+.icosNavBar{
+  font-family: Arial, Helvetica, sans-serif !important;
+  color: #555555 !important;
+  font-weight: 400;
+  font-size: 18px;
+  /* vertical-align: middle; */
+  text-decoration: none;
+}
+
+.navIcon{
+  vertical-align: middle;
+}
+
+.navText{
+  vertical-align: super;
+}
+
+#scanfcode
+{
+  border-radius:0px;
+  background:#fff;
+  padding:10px;
+  font-size:17px;
+}
+
+#link a
+{
+  color:#01325d;
+  margin:0 20px 0 10px;
+  letter-spacing:1.5px;
+}
+
+#first-link
+{
+  padding-right:6px;
+  border-right:solid 1px #ccc;
+}
+
+#button-link a
+{
+  color:#f2f2f2;
+}
