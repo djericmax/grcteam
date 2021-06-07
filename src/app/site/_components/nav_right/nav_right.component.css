@@ -7,6 +7,11 @@
   text-decoration: none;
 }
 
+.linkCor{
+  color: #590000 !important;
+  font-weight: 200;
+}
+
 .navIcon{
   margin-left: -13px !important;
   padding-left: 7px;
