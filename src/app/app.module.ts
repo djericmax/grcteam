@@ -12,6 +12,7 @@ import { FooterComponent } from './site/_components/footer/footer.component';
 import { HomeComponent } from './site/_pages/home/home.component';
 import { Nav_leftComponent } from './site/_components/nav_left/nav_left.component';
 import { Nav_rightComponent } from './site/_components/nav_right/nav_right.component';
+import { FaleconoscoComponent } from './site/_pages/faleconosco/faleconosco.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { Nav_rightComponent } from './site/_components/nav_right/nav_right.compo
     HomeComponent,
     Nav_leftComponent,
     Nav_rightComponent,
-    PoliticaprivacidadeComponent
+    PoliticaprivacidadeComponent,
+    FaleconoscoComponent
    ],
   imports: [
     BrowserModule,
