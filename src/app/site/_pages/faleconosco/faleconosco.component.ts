@@ -1,4 +1,11 @@
 import { Component, OnInit } from '@angular/core';
+import { Routes, RouterModule, ExtraOptions } from '@angular/router';
+
+const routerOptions: ExtraOptions = {
+  useHash: false,
+  anchorScrolling: 'enabled',
+  // ...any other options you'd like to use
+};
 
 @Component({
   selector: 'app-faleconosco',

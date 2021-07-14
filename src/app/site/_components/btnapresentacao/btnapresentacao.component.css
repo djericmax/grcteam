@@ -1,0 +1,78 @@
+.btns{
+  width: 400px !important;
+  height: 60px !important;
+  border-radius: 20px !important;
+  background-color: #640000 !important;
+  /* margin-left: 10%;
+  margin-top: -50% !important; */
+  text-decoration: none !important;
+  font-family:montserrat,sans-serif !important;
+  font-size: 16px !important;
+  color: #ffffff !important;
+  /* box-sizing: border-box; border: 1px solid red; */
+}
+
+
+
+
+
+#comp-kko1lb2w:not(.animating-screenIn-exit){visibility:hidden}
+[data-mesh-id=comp-kko3wwyxinlineContent]{height:auto;width:100%}[data-mesh-id=comp-kko3wwyxinlineContent-gridContainer]{position:static;display:grid;height:auto;width:100%;min-height:605px;grid-template-rows:min-content min-content 1fr;grid-template-columns:100%}[data-mesh-id=comp-kko3wwyxinlineContent-gridContainer]
+> [id="comp-kko4a4fg"]{position:relative;margin:0px 0px 10px calc((100% - 980px) * 0.5);left:-30px;grid-area:2 / 1 / 3 / 2;justify-self:start;align-self:start}[data-mesh-id=comp-kko3wwyxinlineContent-gridContainer]
+> [id="comp-kljw3ksf"]{position:relative;margin:0px 0px 0 calc((100% - 980px) * 0.5);left:0px;grid-area:9 / 1 / 10 / 2;justify-self:start;align-self:start}#c1dmp{left:0;margin-left:0;width:100%;min-width:980px}
+
+#comp-kko4a4fg{width:441px;height:56px}
+
+#comp-kko4a4fg { --rd:15px 15px 15px 15px;--trans1:border-color 0.4s ease 0s, background-color 0.4s ease 0s;--shd:none;--fnt:normal normal 700 18px/1.4em montserrat,sans-serif;--trans2:color 0.4s ease 0s;--txt:var(--color_11);--brw:0px;--bg:139,0,0;--brd:254,96,96;--bgh:var(--color_11);--brdh:139,0,0;--txth:139,0,0;--bgd:204,204,204;--alpha-bgd:1;--brdd:204,204,204;--alpha-brdd:1;--txtd:255,255,255;--alpha-txtd:1;--alpha-bg:1;--alpha-bgh:1;--alpha-brd:1;--alpha-brdh:1;--alpha-txt:1;--alpha-txth:1;--boxShadowToggleOn-shd:none;--shc-mutated-brightness:70,0,0;--label-align:center;--label-text-align:center }
+
+
+._2btH0{
+  height:100%}
+  ._2btH0 ._2k7xj{
+    border-radius:var(--corvid-border-radius,var(--rd,0));
+    position:absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    transition:var(--trans1,border-color .4s ease 0s,background-color .4s ease 0s);
+    box-shadow:var(--shd,0 1px 4px rgba(0,0,0,.6))}
+    ._2btH0 ._2k7xj:link,._2btH0 ._2k7xj:visited{
+      border-color:transparent}
+      ._2btH0 .nr31w{
+        font:var(--fnt,var(--font_5));
+        transition:var(--trans2,color .4s ease 0s);
+        color:var(--corvid-color,rgb(var(--txt,var(--color_15))));
+        position:relative;
+        white-space:nowrap;
+        margin:0}
+        ._2btH0[aria-disabled=false] ._2k7xj{
+          background-color:var(--corvid-background-color,rgba(var(--bg,var(--color_17)),var(--alpha-bg,1)));
+          border:solid var(--corvid-border-color,rgba(var(--brd,var(--color_15)),var(--alpha-brd,1))) var(--corvid-border-width,var(--brw,0));
+          cursor:pointer!important}
+          body.device-mobile-optimized ._2btH0[aria-disabled=false]:active ._2k7xj{
+            background-color:rgba(var(--bgh,var(--color_18)),var(--alpha-bgh,1));
+            border-color:rgba(var(--brdh,var(--color_15)),var(--alpha-brdh,1))}
+            body.device-mobile-optimized ._2btH0[aria-disabled=false]:active .nr31w{
+              color:rgb(var(--txth,var(--color_15)))}
+              body:not(.device-mobile-optimized) ._2btH0[aria-disabled=false]:hover ._2k7xj{
+                background-color:rgba(var(--bgh,var(--color_18)),var(--alpha-bgh,1));
+                border-color:rgba(var(--brdh,var(--color_15)),var(--alpha-brdh,1))}
+                body:not(.device-mobile-optimized) ._2btH0[aria-disabled=false]:hover .nr31w{
+                  color:rgb(var(--txth,var(--color_15)))}
+                  ._2btH0[aria-disabled=true] ._2k7xj{
+                    background-color:rgba(var(--bgd,204,204,204),var(--alpha-bgd,1));
+                    border-color:rgba(var(--brdd,204,204,204),var(--alpha-brdd,1));
+                    border-width:var(--corvid-border-width,var(--brw,0));
+                    border-style:solid}
+                    ._2btH0[aria-disabled=true] .nr31w{
+                      color:rgb(var(--txtd,255,255,255))}
+
+
+
+                      #SCROLL_TO_BOTTOM,#SCROLL_TO_TOP{
+                        height:0}[data-z-counter]{
+                          z-index:0}[data-z-counter="0"]{
+                            z-index:auto}.wixSiteProperties{
+                              -webkit-font-smoothing:antialiased;
+                              -moz-osx-font-smoothing:grayscale}
